@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate for an opportunity as a fresher in software industry
 - 📫 To reach me mail at: vaheedsk36@gmail.com
-- ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/ 
-- 
+- ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/
 
 <!---
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
