@@ -2,7 +2,9 @@
 - 👀 I’m interested in building desktop application using python also, I love front-end web-development.
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate for an opportunity as a fresher in software industry
-- 📫 To reach me mail at: vaheedsk36@gmail.com...
+- 📫 To reach me mail at: vaheedsk36@gmail.com
+- ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/ 
+- 
 
 <!---
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
