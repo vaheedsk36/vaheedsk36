@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaheed
 - 👀 I’m interested in building desktop application using python also, I love front-end web-development.
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to collaborate for an opportunity as a fresher in software industry
+- 💞️ I’m looking for an opportunity as a fresher in software industry
 - 📫 To reach me mail at: vaheedsk36@gmail.com
 - ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/
 
