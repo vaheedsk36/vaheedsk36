@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaheed
-- 👀 I’m interested in building desktop application using python also, I love front-end web-development.
+- 👀 I’m an aspiring web developer, I love front-end web-development.
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking for an opportunity as a fresher in software industry
 - 🌐 Visit my portfolio website on: https://vaheedsk36.herokuapp.com/
