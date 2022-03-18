@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaheed
-- 👀 I’m an aspiring web developer, I love front-end web-development.
-- 🌱 I’m currently learning React and DSA in JS
+- 👀 I’m an aspiring web developer, I love front-end web-development
+- 🌱 I’m currently learning Tyescript and React with Typescript
 - 💞️ I’m looking for an opportunity as a fresher in software industry
 - 🌐 Visit my portfolio website on: https://vaheedsk36.herokuapp.com/
 - 📫 To reach me mail at: vaheedsk36@gmail.com
