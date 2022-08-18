@@ -27,8 +27,8 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaheedsk36&show_icons&hide_border=true" />>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaheedsk36&show_icons" />
 </p>
 
 
