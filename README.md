@@ -24,7 +24,14 @@
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 📈 Stats
 
-[![Vaheed's github stats](https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true&hide_border=true)](https://github.com/vaheedsk36/github-readme-stats)&nbsp;&nbsp;
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaheedsk36&show_icons&hide_border=true" />>
+</p>
+
 
 [![Vaheed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaheedsk36&show_icons=true&hide_border=true)](https://github.com/vaheedsk36/github-readme-stats)
+
+
