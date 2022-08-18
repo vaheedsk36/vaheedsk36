@@ -1,12 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vaheed!](https://www.linkedin.com/in/sk36/) 
 
 
-### About Me 🚀
+## About Me 🚀
 🌱 I’m a front-end developer and a aspiring fullstack developer. </br>
 👨‍💻  I am passionate about software engiineering & I enjoy learning new things. </br>
 
 
-### My Experiences 🙌
+## My Experiences 🙌
 - [Software Developer (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
 
 
