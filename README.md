@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Vaheed
-- 👀 I’m an aspiring web developer, I love front-end web-development
-- 🌱 I’m currently learning Tyescript and React with Typescript
-- 💞️ I’m looking for an opportunity as a fresher in software industry
+- 👀 I’m an software developer
+
+
+## 🕹️ Connect with me
+
 - 🌐 Visit my portfolio website on: https://vaheedsk36.herokuapp.com/
 - 📫 To reach me mail at: vaheedsk36@gmail.com
 - ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/
-
-## 🕹️ Connect with me
 
 
 ## 💻 Tech Stack
