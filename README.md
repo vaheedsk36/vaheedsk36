@@ -32,13 +32,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-[![Vaheed's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaheedsk36&show_icons=true&hide_border=true)](https://github.com/vaheedsk36/github-readme-stats)
-
-## Activity Graph
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
-</p>
-
-<br>
 
 
