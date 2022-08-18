@@ -1,12 +1,27 @@
-- 👋 Hi, I’m Vaheed
-- 👀 I’m an software developer
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vaheed!](https://www.linkedin.com/in/sk36/) 
 
+### About Me 🚀
+🌱 I’m a front-end developer and a aspiring fullstack developer. </br>
+👨‍💻  I am passionate about software engiineering & I enjoy learning new things. </br>
+
+
+<a href="https://www.linkedin.com/in/sk36/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:vaheedsk36@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<br />
+
+### My Experiences 🙌
+- [Software Developer (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
 
 ## 🕹️ Connect with me
 
-- 🌐 Visit my portfolio website on: https://vaheedsk36.herokuapp.com/
-- 📫 To reach me mail at: vaheedsk36@gmail.com
-- ➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/
+🌐 Visit my portfolio website on: https://vaheedsk36.herokuapp.com/
+📫 To reach me mail at: vaheedsk36@gmail.com
+➡️ You can also reach me on linkedin: https://www.linkedin.com/in/sk36/
 
 
 ## 💻 Tech Stack
