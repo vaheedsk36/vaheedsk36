@@ -2,7 +2,7 @@
 
 
 ## About Me 🚀
-🌱 I’m a front-end developer and a aspiring fullstack developer. </br>
+🌱 I’m a software developer. </br>
 👨‍💻  I am passionate about software engiineering & I enjoy learning new things. </br>
 
 
