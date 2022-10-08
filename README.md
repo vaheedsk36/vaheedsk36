@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 🌱 I’m a software developer. </br>
-👨‍💻  I am passionate about software engiineering & I enjoy learning new things. </br>
+👨‍💻 I am passionate about software engineering & I enjoy learning new things. </br>
 
 
 ## My Experiences 🙌
