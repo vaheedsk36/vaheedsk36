@@ -2,12 +2,12 @@
 
 
 ## About Me 🚀
-🌱 I’m a software developer. </br>
+🌱 I’m a software engineer. </br>
 👨‍💻 I am passionate about software engineering & I enjoy learning new things. </br>
 
 
 ## My Experiences 🙌
-- [Software Developer (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
+- [Software Engineer 1 (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
 
 
 ## 🕹️ Connect with me
