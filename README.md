@@ -41,7 +41,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 ![PugJS](https://img.shields.io/badge/Pug-E3C29B?style=flat&logo=pug&logoColor=black)
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
 <!---
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
