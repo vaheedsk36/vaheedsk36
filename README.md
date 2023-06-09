@@ -43,6 +43,7 @@
 ![PugJS](https://img.shields.io/badge/Pug-E3C29B?style=flat&logo=pug&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&labelColor=4EAA25)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
 <!---
