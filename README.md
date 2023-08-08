@@ -14,7 +14,7 @@
 🌐 Visit my portfolio [website](https://vaheedsk36.herokuapp.com/) <br/>
 📫 To reach me mail at: vaheedsk36@gmail.com  <br/>
 ➡️ You can also reach me on [linkedin](https://www.linkedin.com/in/sk36/)  <br/>
-🧑‍💻 Checkout my [blog](https://codersk36.hashnode.dev/)
+🧑‍💻 Checkout my blog on [hashnode](https://codersk36.hashnode.dev/)
 
 
 ## 💻 Tech Stack
