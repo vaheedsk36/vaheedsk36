@@ -11,7 +11,7 @@
 
 
 ## 🕹️ Connect with me
-🌐 Visit my portfolio [website](https://vaheedsk36.herokuapp.com/) <br/>
+🌐 Visit my portfolio [website](https://vaheedshaik.vercel.app/) <br/>
 📫 To reach me mail at: vaheedsk36@gmail.com  <br/>
 ➡️ You can also reach me on [linkedin](https://www.linkedin.com/in/sk36/)  <br/>
 🧑‍💻 Checkout my blog on [hashnode](https://codersk36.hashnode.dev/)
@@ -45,7 +45,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=ffffff&labelColor=4EAA25)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 
 <!---
 vaheedsk36/vaheedsk36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
