@@ -8,6 +8,7 @@
 
 ## My Experiences 🙌
 - [Software Engineer 1 (1Digitalstack)](https://1digitalstack.ai/) - (March'22-Present)
+- [Associate Consultant Level-1 (FactMR)](https://www.factmr.com/) - (Dec'20-July'21)
 
 
 ## 🕹️ Connect with me
