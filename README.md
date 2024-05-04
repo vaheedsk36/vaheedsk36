@@ -8,7 +8,7 @@
 
 ## My Experiences 🙌
 - [Software Engineer 2 (1Digitalstack)](https://1digitalstack.ai/) - (April'24-Present)
-- [Software Engineer 1 (1Digitalstack)](https://1digitalstack.ai/) - (March'22-March'23)
+- [Software Engineer 1 (1Digitalstack)](https://1digitalstack.ai/) - (March'22-March'24)
 - [Associate Consultant Level-1 (FactMR)](https://www.factmr.com/) - (Dec'20-July'21)
 
 
