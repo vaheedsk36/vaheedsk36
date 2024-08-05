@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 🌱 I’m a software engineer. </br>
-👨‍💻 I am passionate about software engineering & I enjoy learning new things. Also, I write tech blogs.</br>
+👨‍💻 I am passionate about software engineering & I enjoy learning new things. Also, love writing tech blogs.</br>
 
 
 ## My Experiences 🙌
