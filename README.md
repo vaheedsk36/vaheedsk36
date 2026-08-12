@@ -26,12 +26,42 @@
 
 ## :office: Experience
 
-| Role | Company | Duration |
-| :--- | :--- | :--- |
-| Software Engineer 3 | [1Digitalstack](https://1digitalstack.ai/) | Apr 2025 &ndash; Present |
-| Software Engineer 2 | [1Digitalstack](https://1digitalstack.ai/) | Apr 2024 &ndash; Mar 2025 |
-| Software Engineer 1 | [1Digitalstack](https://1digitalstack.ai/) | Mar 2022 &ndash; Mar 2024 |
-| Associate Consultant Level 1 | [FactMR](https://www.factmr.com/) | Dec 2020 &ndash; Jul 2021 |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Company</th>
+      <th align="left">Role</th>
+      <th align="left">Period</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" valign="middle" align="center">
+        <a href="https://1digitalstack.ai/"><b>1Digitalstack</b></a><br/>
+        <sub>Mar 2022 &ndash; Present</sub><br/>
+        <sub><i>Promoted twice</i></sub>
+      </td>
+      <td><b>Software Engineer 3</b> &nbsp;<img alt="Current" src="https://img.shields.io/badge/current-2EA043?style=flat-square" /></td>
+      <td>Apr 2025 &ndash; Present</td>
+    </tr>
+    <tr>
+      <td>Software Engineer 2</td>
+      <td>Apr 2024 &ndash; Mar 2025</td>
+    </tr>
+    <tr>
+      <td>Software Engineer 1</td>
+      <td>Mar 2022 &ndash; Mar 2024</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="center">
+        <a href="https://www.factmr.com/"><b>FactMR</b></a><br/>
+        <sub>Dec 2020 &ndash; Jul 2021</sub>
+      </td>
+      <td>Associate Consultant Level 1</td>
+      <td>Dec 2020 &ndash; Jul 2021</td>
+    </tr>
+  </tbody>
+</table>
 
 ## :computer: Tech Stack
 
