@@ -81,7 +81,7 @@
 
 <p align="center">
   <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vaheedsk36&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaheedsk36&hide_border=true&theme=tokyonight" />
+  <img width="48%" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=vaheedsk36&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
