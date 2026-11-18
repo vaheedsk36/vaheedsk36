@@ -25,8 +25,7 @@
 
 I'm a **full-stack engineer** who likes owning a feature end to end, from the API and database all the way to the last pixel on screen. For the past few years I've been building web products at **[1Digitalstack](https://1digitalstack.ai/)**, and I share what I learn along the way on [Medium](https://medium.com/@vaheedsk36) and [Hashnode](https://codersk36.hashnode.dev/).
 
-> 💬 **Ask me about** web dev, JavaScript, APIs, or growing as an engineer  
-> 🐛 **Fun fact:** promoted twice in 3 years, and still debugging with `console.log`
+> 💬 **Ask me about** web dev, JavaScript, APIs, or growing as an engineer
 
 <table>
 <tr>
