@@ -25,13 +25,13 @@
 
 ```ts
 const vaheed = {
-  role:        "Software Engineer 3 @ 1Digitalstack",
-  base:        "India 🇮🇳",
-  shipsWith:   ["TypeScript", "React / Next.js", "Node.js", "Python"],
-  learning:    ["Backend architecture", "System design", "Cloud tooling"],
-  writesOn:    ["Medium", "Hashnode"],
-  askMeAbout:  ["Web dev", "JavaScript", "APIs", "Growing as an engineer"],
-  funFact:     "Promoted twice in 3 years — and still debugging with console.log 🐛",
+  role: "Software Engineer 3 @ 1Digitalstack",
+  base: "India 🇮🇳",
+  shipsWith: ["TypeScript", "React / Next.js", "Node.js", "Python"],
+  learning: ["Backend architecture", "System design", "Cloud tooling"],
+  writesOn: ["Medium", "Hashnode"],
+  askMeAbout: ["Web dev", "JavaScript", "APIs", "Growing as an engineer"],
+  funFact: "Promoted twice in 3 years, still debugging with console.log 🐛",
 };
 ```
 
